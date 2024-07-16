@@ -1,0 +1,12 @@
+Working on real time data 
+  1) Extracted data from IEMOCAP dataset whcich was raw data 
+  2) 5 folders had diffrent raw data in it{transcription s1 to s5}
+  3) Converted those folders into 5 excelsheets having 2 columns { dc.ipynb }
+      1] 1st column have text 
+      2] 2nd column have abels
+      3] here labels were given in dataset hence it was given by model
+  4) Combined all excel sheets into 1 csv { Ccsv.ipynb }
+  5) to add more accurate labels { cds.ipynb }
+      1] we created a model using library 
+      2] created new csv file containing 1 extra column of correct labels
+  6) EDA of this new dataset { EDAcds.ipynb }      
