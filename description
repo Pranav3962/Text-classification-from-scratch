@@ -1,5 +1,5 @@
 Working on real time data 
-  1) Extracted data from IEMOCAP dataset whcich was raw data 
+  1) Extracted data from IEMOCAP dataset which was raw data 
   2) 5 folders had diffrent raw data in it{transcription s1 to s5}
   3) Converted those folders into 5 excelsheets having 2 columns { dc.ipynb }
       1] 1st column have text 
