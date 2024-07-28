@@ -10,3 +10,5 @@ Working on real time data
       1] we created a model using library 
       2] created new csv file containing 1 extra column of correct labels
   6) EDA of this new dataset { EDAcds.ipynb }      
+  7) after EDA we finalize dataset{ output.csv }
+  8) final model { finalcol.ipynb }
